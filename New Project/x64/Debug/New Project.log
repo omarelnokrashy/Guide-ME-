@@ -1,0 +1,18 @@
+﻿  FileName.cpp
+C:\Users\Amr\source\repos\New Project\FileName.cpp(91,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Amr\source\repos\New Project\FileName.cpp(91,52): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Amr\source\repos\New Project\FileName.cpp(91,52): warning C4244:         with
+C:\Users\Amr\source\repos\New Project\FileName.cpp(91,52): warning C4244:         [
+C:\Users\Amr\source\repos\New Project\FileName.cpp(91,52): warning C4244:             T=int
+C:\Users\Amr\source\repos\New Project\FileName.cpp(91,52): warning C4244:         ]
+C:\Users\Amr\source\repos\New Project\FileName.cpp(207,77): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+C:\Users\Amr\source\repos\New Project\FileName.cpp(207,77): warning C4244:         with
+C:\Users\Amr\source\repos\New Project\FileName.cpp(207,77): warning C4244:         [
+C:\Users\Amr\source\repos\New Project\FileName.cpp(207,77): warning C4244:             T=float
+C:\Users\Amr\source\repos\New Project\FileName.cpp(207,77): warning C4244:         ]
+C:\Users\Amr\source\repos\New Project\FileName.cpp(218,78): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+C:\Users\Amr\source\repos\New Project\FileName.cpp(218,78): warning C4244:         with
+C:\Users\Amr\source\repos\New Project\FileName.cpp(218,78): warning C4244:         [
+C:\Users\Amr\source\repos\New Project\FileName.cpp(218,78): warning C4244:             T=float
+C:\Users\Amr\source\repos\New Project\FileName.cpp(218,78): warning C4244:         ]
+  New Project.vcxproj -> C:\Users\Amr\source\repos\New Project\x64\Debug\New Project.exe
